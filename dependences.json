@@ -1,0 +1,84 @@
+{
+  "ufn_get_CargosAdicionales": {
+    "ufn_get_DividendoTotal": {
+      "SP_RECAUDACIONSANTANDER": "SP_RECAUDACIONSANTANDER",
+      "sp_ext_InformacionMutuo": "sp_ext_InformacionMutuo",
+      "spMorososFormatoPVCH": "spMorososFormatoPVCH"
+    },
+    "batchMorosidadAgrupada": "batchMorosidadAgrupada"
+  },
+  "ufn_get_SegIncendio": {
+    "spDeudoresMorosos": "spDeudoresMorosos",
+    "GetReporteMSR": "GetReporteMSR",
+    "UFN_GET_SEGINCENDIO_COMPANIA_MSR": {
+      "GetReporteMSR": "GetReporteMSR",
+      "spReporteMSR": "spReporteMSR"
+    },
+    "spReporteMSR": "spReporteMSR",
+    "batchMorosidadAgrupada": "batchMorosidadAgrupada",
+    "ufn_get_SegIncendio_MSR": {
+      "GetReporteMSR": "GetReporteMSR",
+      "spReporteMSR": "spReporteMSR"
+    }
+  },
+  "ufn_get_valorseguro": "ufn_get_valorseguro",
+  "ufn_get_SegSeparadoTerremoto": {
+    "GetLlamadaBienvenida": "GetLlamadaBienvenida"
+  },
+  "ufn_get_SegDesg": {
+    "spDeudoresMorosos": "spDeudoresMorosos",
+    "GetReporteMSR": "GetReporteMSR",
+    "UFN_GET_SEGDESG_COMPANIA_MSR": {
+      "GetReporteMSR": "GetReporteMSR",
+      "spReporteMSR": "spReporteMSR"
+    },
+    "GetLlamadaBienvenida": "GetLlamadaBienvenida",
+    "spReporteMSR": "spReporteMSR",
+    "batchMorosidadAgrupada": "batchMorosidadAgrupada",
+    "ufn_get_SegDesg_MSR": {
+      "GetReporteMSR": "GetReporteMSR",
+      "spReporteMSR": "spReporteMSR"
+    }
+  },
+  "UFN_GET_SEGDESG_COMPANIA_MSR": {
+    "GetReporteMSR": "GetReporteMSR",
+    "spReporteMSR": "spReporteMSR"
+  },
+  "UFN_GET_SEGINCENDIO_COMPANIA_MSR": {
+    "GetReporteMSR": "GetReporteMSR",
+    "spReporteMSR": "spReporteMSR"
+  },
+  "ufn_get_DividendoTotal": {
+    "SP_RECAUDACIONSANTANDER": "SP_RECAUDACIONSANTANDER",
+    "sp_ext_InformacionMutuo": "sp_ext_InformacionMutuo",
+    "spMorososFormatoPVCH": "spMorososFormatoPVCH"
+  },
+  "ufn_get_SegAdicional": {
+    "spDeudoresMorosos": "spDeudoresMorosos",
+    "batchMorosidadAgrupada": "batchMorosidadAgrupada"
+  },
+  "ufn_get_SegCompl": {
+    "batchMorosidadAgrupada": "batchMorosidadAgrupada"
+  },
+  "ufn_get_GastoCobranza": {
+    "spRteAgrupadoMorosidadFinMesDet": "spRteAgrupadoMorosidadFinMesDet",
+    "ufn_get_DividendoTotal": {
+      "SP_RECAUDACIONSANTANDER": "SP_RECAUDACIONSANTANDER",
+      "sp_ext_InformacionMutuo": "sp_ext_InformacionMutuo",
+      "spMorososFormatoPVCH": "spMorososFormatoPVCH"
+    },
+    "spRteAgrupadoMorosidadDet": "spRteAgrupadoMorosidadDet"
+  },
+  "ufn_get_SegSeparadoIncendio": {
+    "GetLlamadaBienvenida": "GetLlamadaBienvenida"
+  },
+  "ufn_get_coberturaseguro": "ufn_get_coberturaseguro",
+  "ufn_get_SegDesg_MSR": {
+    "GetReporteMSR": "GetReporteMSR",
+    "spReporteMSR": "spReporteMSR"
+  },
+  "ufn_get_SegIncendio_MSR": {
+    "GetReporteMSR": "GetReporteMSR",
+    "spReporteMSR": "spReporteMSR"
+  }
+}

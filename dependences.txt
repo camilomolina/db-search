@@ -1,0 +1,63 @@
+ufn_get_CargosAdicionales
+  ufn_get_DividendoTotal
+    SP_RECAUDACIONSANTANDER
+    sp_ext_InformacionMutuo
+    spMorososFormatoPVCH
+  batchMorosidadAgrupada
+ufn_get_SegIncendio
+  spDeudoresMorosos
+  GetReporteMSR
+  UFN_GET_SEGINCENDIO_COMPANIA_MSR
+    GetReporteMSR
+    spReporteMSR
+  spReporteMSR
+  batchMorosidadAgrupada
+  ufn_get_SegIncendio_MSR
+    GetReporteMSR
+    spReporteMSR
+ufn_get_valorseguro
+ufn_get_SegSeparadoTerremoto
+  GetLlamadaBienvenida
+ufn_get_SegDesg
+  spDeudoresMorosos
+  GetReporteMSR
+  UFN_GET_SEGDESG_COMPANIA_MSR
+    GetReporteMSR
+    spReporteMSR
+  GetLlamadaBienvenida
+  spReporteMSR
+  batchMorosidadAgrupada
+  ufn_get_SegDesg_MSR
+    GetReporteMSR
+    spReporteMSR
+UFN_GET_SEGDESG_COMPANIA_MSR
+  GetReporteMSR
+  spReporteMSR
+UFN_GET_SEGINCENDIO_COMPANIA_MSR
+  GetReporteMSR
+  spReporteMSR
+ufn_get_DividendoTotal
+  SP_RECAUDACIONSANTANDER
+  sp_ext_InformacionMutuo
+  spMorososFormatoPVCH
+ufn_get_SegAdicional
+  spDeudoresMorosos
+  batchMorosidadAgrupada
+ufn_get_SegCompl
+  batchMorosidadAgrupada
+ufn_get_GastoCobranza
+  spRteAgrupadoMorosidadFinMesDet
+  ufn_get_DividendoTotal
+    SP_RECAUDACIONSANTANDER
+    sp_ext_InformacionMutuo
+    spMorososFormatoPVCH
+  spRteAgrupadoMorosidadDet
+ufn_get_SegSeparadoIncendio
+  GetLlamadaBienvenida
+ufn_get_coberturaseguro
+ufn_get_SegDesg_MSR
+  GetReporteMSR
+  spReporteMSR
+ufn_get_SegIncendio_MSR
+  GetReporteMSR
+  spReporteMSR
